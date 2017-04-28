@@ -1,0 +1,4 @@
+github "Alamofire/Alamofire" ~> 4.4
+github "michaeltyson/TPKeyboardAvoiding"
+github "onevcat/kingfisher"
+github "SwiftyJSON/SwiftyJSON"
